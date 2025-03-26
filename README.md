@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/hoanghaidev.svg" width="1200" alt="hoanghaidev-official" />
+  <img src="./svg/hoanghaidev.svg" width="1200" alt="hoanghaidev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -78,5 +78,5 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="hoanghaidev-mot-lap-trinh-vien" />
+  <img src="./svg/hoanghaidev-quotes.svg" width="846" height="150" alt="hoanghaidev-mot-lap-trinh-vien" />
 </a>
